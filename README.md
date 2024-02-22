@@ -1,4 +1,4 @@
-{
+```{
   "name": "vino-app",
   "version": "0.1.0",
   "private": true,
@@ -66,8 +66,8 @@
     "prettier": "^3.2.5"
   }
 }
+```
 
-## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
